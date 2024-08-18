@@ -1,0 +1,19 @@
+body {
+    margin: 0;padding: 0;
+   
+}
+.container-home {
+    background: #000000;
+    padding: 10px;
+    color: rgb(122, 47, 221);
+}
+.fixedd {
+   display: flex; justify-content: space-between;
+}
+.Caption-profil {
+    margin: 50px;
+}
+.img-profil { 
+    margin: 50px;
+    width: 200px;
+}

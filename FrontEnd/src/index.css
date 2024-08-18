@@ -1,0 +1,11 @@
+nav {
+	padding: 30px;background-color: black;
+	box-shadow: 2px 3px 5px rgba(0,0,0, .2);
+}
+.logo {
+	width: 100px;
+	margin-right: 30px;
+}
+.py-5 {
+	bottom: 0px;
+}
